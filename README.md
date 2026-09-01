@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram charan  
 FULL  stack Developer
 # 💫 About Me:
-🎓 I'm a student at Guru Nanak Institutions<br>💻 Passionate about Web Development & Backend Engineering<br>🚀 Currently learning the MERN Stack<br>🌱 Exploring System Design & AI Agents<br>⚡ Love building real-world projects using JavaScript
+🎓 I'm a student at Guru Nanak Institutions<br>💻 Passionate about Web Development & Backend Engineering<br>🚀 Currently learning the MERN Stack<br>🌱 Exploring System Design & AI Agents<br>⚡ Love building real-world projects using Java
 
 
 ## 🌐 Socials:
